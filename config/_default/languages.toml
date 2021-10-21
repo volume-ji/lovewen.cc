@@ -1,0 +1,10 @@
+[zh]
+  title = "吉元"
+  LanguageName = "中文"
+  weight = 1
+
+[en]
+  title = "Williamji"
+  LanguageName = "English"
+  weight = 2
+  
