@@ -1,11 +1,9 @@
 +++
-title = "核酸检测怎么做"
-date = "2021-10-21"
-description = "2021年疫情政策下如何顺利成功办理个人护照？"
-featured = true
-tags = [
-    "疫情防控",
-]
+title = "核酸检测怎么做？"
+date = "2021-10-20T10:32:05Z"
+tags = ["疫情防控"]
+dropCap = false
+indent = true
 series = ["伤寒杂论"]
 thumbnail = "/images/rescues/xinguanyiqing/hesuanjiance.jpeg"
 +++
